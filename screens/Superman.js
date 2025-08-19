@@ -1,5 +1,5 @@
 import { StatusBar } from 'expo-status-bar';
-import { StyleSheet, Text, ScrollView, Image, Button} from 'react-native';
+import { StyleSheet, Text, ScrollView, Image} from 'react-native';
 
 
 export default function Superman() {
